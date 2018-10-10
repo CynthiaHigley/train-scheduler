@@ -1,0 +1,49 @@
+.topSection {
+    background-color: blue;
+    height: 100px;
+    position: relative;
+    text-align: center;
+}
+
+.topicSelector {
+    /* background-color: beige; */
+    display: inline-block;
+    text-decoration-color: antiquewhite;
+}
+
+
+
+.mainFrame {
+    background-color: lightblue;
+    min-height: 500px;
+    position: relative;
+
+}
+
+.sideBar {
+    background-color:white;
+    display: inline-block;
+    position: absolute;
+    left: 0px;
+    width: 200px;
+    min-height: 480px;
+
+}
+
+.rightSide {
+    display: inline-block;
+    min-height: 280px;
+    width: 900px;
+    position: absolute;
+    left: 200px;
+}
+
+.formCode {
+    background-color: white;
+    min-height: 200px;
+}
+
+.instructions {
+    background-color: blue;
+    min-height: 200px;
+}
